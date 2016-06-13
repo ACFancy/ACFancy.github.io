@@ -4,9 +4,9 @@
   <subtitle>正在修道中,追求完美的编程艺术!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://acfancy.github.io/"/>
   <updated>2016-06-13T09:11:44.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://acfancy.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/06/13/hello-world/"/>
-    <id>http://yoursite.com/2016/06/13/hello-world/</id>
+    <link href="https://acfancy.github.io/2016/06/13/hello-world/"/>
+    <id>https://acfancy.github.io/2016/06/13/hello-world/</id>
     <published>2016-06-13T09:11:44.000Z</published>
     <updated>2016-06-13T09:11:44.000Z</updated>
     
